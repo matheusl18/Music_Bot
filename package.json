@@ -1,0 +1,25 @@
+{
+  "name": "music_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MusicBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Leite",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "ffbinaries": "^1.1.4",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "opusscript": "0.0.7",
+    "path": "^0.12.7",
+    "yt-search": "^1.1.2",
+    "ytdl-core": "^2.1.5",
+    "ytdl-core-discord": "^1.2.0"
+  }
+}
